@@ -47,6 +47,9 @@ export default class App extends Component {
                     <View>
                         <Button containerStyle={{marginBottom : 25}} title='RainFall Analysis'></Button>
                     </View>
+                    <View>
+                        <Button title='Saji Button'></Button>
+                    </View>
                 </View>
             </View>
         )
